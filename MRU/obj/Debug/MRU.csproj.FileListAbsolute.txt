@@ -1,0 +1,20 @@
+C:\Users\ra1857060\Desktop\FisicaCTI72A\MRU\bin\Debug\MRU.exe.config
+C:\Users\ra1857060\Desktop\FisicaCTI72A\MRU\bin\Debug\MRU.exe
+C:\Users\ra1857060\Desktop\FisicaCTI72A\MRU\bin\Debug\MRU.pdb
+C:\Users\ra1857060\Desktop\FisicaCTI72A\MRU\obj\Debug\MRU.csprojAssemblyReference.cache
+C:\Users\ra1857060\Desktop\FisicaCTI72A\MRU\obj\Debug\MRU.frmMRU.resources
+C:\Users\ra1857060\Desktop\FisicaCTI72A\MRU\obj\Debug\MRU.Properties.Resources.resources
+C:\Users\ra1857060\Desktop\FisicaCTI72A\MRU\obj\Debug\MRU.csproj.GenerateResource.cache
+C:\Users\ra1857060\Desktop\FisicaCTI72A\MRU\obj\Debug\MRU.csproj.CoreCompileInputs.cache
+C:\Users\ra1857060\Desktop\FisicaCTI72A\MRU\obj\Debug\MRU.exe
+C:\Users\ra1857060\Desktop\FisicaCTI72A\MRU\obj\Debug\MRU.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\FisicaCTI72A\MRU\bin\Debug\MRU.exe.config
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\FisicaCTI72A\MRU\bin\Debug\MRU.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\FisicaCTI72A\MRU\bin\Debug\MRU.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\FisicaCTI72A\MRU\obj\Debug\MRU.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\FisicaCTI72A\MRU\obj\Debug\MRU.frmMRU.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\FisicaCTI72A\MRU\obj\Debug\MRU.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\FisicaCTI72A\MRU\obj\Debug\MRU.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\FisicaCTI72A\MRU\obj\Debug\MRU.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\FisicaCTI72A\MRU\obj\Debug\MRU.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\FisicaCTI72A\MRU\obj\Debug\MRU.pdb
